@@ -2,6 +2,8 @@
 
 A simple raycaster demo for the Sony PSP.
 
+![PSPcaster](img/pspcaster.jpg)
+
 ## Notes
 
 This code is not optimized - it runs really slow. There are a lot of points that could be improved, but this is just a proof of concept.
